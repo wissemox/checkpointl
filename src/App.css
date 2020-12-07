@@ -1,0 +1,35 @@
+.wissem { 
+  margin-top: 50px;
+  margin-left: 600px;
+}
+.wissem img { 
+  width: 300px;
+}.wissem h1{
+  color: white;
+  padding-left: 20px;
+}
+
+.wissem h3 {
+  color: white;
+  font-size: 18px;
+  padding-top: 40px;
+  padding-left: 10px;
+}
+.wissem h1:hover{
+  color: white;
+  opacity: 60%;
+  }
+.wissem h3:hover{
+color: white;
+opacity: 60%;
+
+}
+.ahabik{   
+  border: 2px solid ;
+  padding-top: 30px;
+  border-radius: 25px;
+width: 300px;
+margin-right: 40px;
+height: 250px;
+background-color: #1F1A17;
+}
